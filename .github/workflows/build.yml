@@ -61,4 +61,4 @@ jobs:
         path: |
           D:/a/aseprite/aseprite/build/bin/data
           D:/a/aseprite/aseprite/build/bin/aseprite.exe
-#yeah
+#yeah_项目的名字一定要确保aseprite，不然找不到路径了
